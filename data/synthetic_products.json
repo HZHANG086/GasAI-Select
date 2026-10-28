@@ -1,0 +1,338 @@
+[
+  {
+    "id": "SYN-001",
+    "synthetic": true,
+    "product_name": "合成在线气体分析仪",
+    "brand_name": "DemoLab-1",
+    "model": "SYN-001",
+    "category_hint": "气体分析仪",
+    "instrument_type_raw": "气体分析仪",
+    "price_text": "12万元",
+    "domestic_or_imported": "国产",
+    "application_industries": [
+      "石油化工"
+    ],
+    "is_portable": false,
+    "is_online": true,
+    "is_benchtop": false,
+    "company_name": "虚构演示制造商",
+    "principle": "合成演示原理",
+    "detection_range_text": "演示参数：0–100 任意单位",
+    "accuracy_text": "未提供真实精度",
+    "core_facts": [
+      "合成应用场景：石油化工",
+      "演示形态：在线",
+      "参数仅用于软件演示，不代表真实设备性能"
+    ],
+    "search_text": "合成在线气体分析仪 DemoLab-1 石油化工 在线 气体分析仪",
+    "url": "https://example.invalid/products/SYN-001"
+  },
+  {
+    "id": "SYN-002",
+    "synthetic": true,
+    "product_name": "合成便携气体分析仪",
+    "brand_name": "DemoLab-2",
+    "model": "SYN-002",
+    "category_hint": "气体分析仪",
+    "instrument_type_raw": "气体分析仪",
+    "price_text": "6万元",
+    "domestic_or_imported": "进口",
+    "application_industries": [
+      "环保"
+    ],
+    "is_portable": true,
+    "is_online": false,
+    "is_benchtop": false,
+    "company_name": "虚构演示制造商",
+    "principle": "合成演示原理",
+    "detection_range_text": "演示参数：0–100 任意单位",
+    "accuracy_text": "未提供真实精度",
+    "core_facts": [
+      "合成应用场景：环保",
+      "演示形态：便携",
+      "参数仅用于软件演示，不代表真实设备性能"
+    ],
+    "search_text": "合成便携气体分析仪 DemoLab-2 环保 便携 气体分析仪",
+    "url": "https://example.invalid/products/SYN-002"
+  },
+  {
+    "id": "SYN-003",
+    "synthetic": true,
+    "product_name": "合成便携气体报警器",
+    "brand_name": "DemoLab-3",
+    "model": "SYN-003",
+    "category_hint": "气体报警器",
+    "instrument_type_raw": "气体报警器",
+    "price_text": "2万元",
+    "domestic_or_imported": "国产",
+    "application_industries": [
+      "石油化工"
+    ],
+    "is_portable": true,
+    "is_online": false,
+    "is_benchtop": false,
+    "company_name": "虚构演示制造商",
+    "principle": "合成演示原理",
+    "detection_range_text": "演示参数：0–100 任意单位",
+    "accuracy_text": "未提供真实精度",
+    "core_facts": [
+      "合成应用场景：石油化工",
+      "演示形态：便携",
+      "参数仅用于软件演示，不代表真实设备性能"
+    ],
+    "search_text": "合成便携气体报警器 DemoLab-3 石油化工 便携 气体报警器",
+    "url": "https://example.invalid/products/SYN-003"
+  },
+  {
+    "id": "SYN-004",
+    "synthetic": true,
+    "product_name": "合成实验室水分测定仪",
+    "brand_name": "DemoLab-1",
+    "model": "SYN-004",
+    "category_hint": "水分测定仪",
+    "instrument_type_raw": "水分测定仪",
+    "price_text": "8万元",
+    "domestic_or_imported": "进口",
+    "application_industries": [
+      "食品"
+    ],
+    "is_portable": false,
+    "is_online": false,
+    "is_benchtop": true,
+    "company_name": "虚构演示制造商",
+    "principle": "合成演示原理",
+    "detection_range_text": "演示参数：0–100 任意单位",
+    "accuracy_text": "未提供真实精度",
+    "core_facts": [
+      "合成应用场景：食品",
+      "演示形态：实验室",
+      "参数仅用于软件演示，不代表真实设备性能"
+    ],
+    "search_text": "合成实验室水分测定仪 DemoLab-1 食品 实验室 水分测定仪",
+    "url": "https://example.invalid/products/SYN-004"
+  },
+  {
+    "id": "SYN-005",
+    "synthetic": true,
+    "product_name": "合成便携气相色谱仪",
+    "brand_name": "DemoLab-2",
+    "model": "SYN-005",
+    "category_hint": "气相色谱仪",
+    "instrument_type_raw": "气相色谱仪",
+    "price_text": "18万元",
+    "domestic_or_imported": "国产",
+    "application_industries": [
+      "石油化工"
+    ],
+    "is_portable": true,
+    "is_online": false,
+    "is_benchtop": false,
+    "company_name": "虚构演示制造商",
+    "principle": "合成演示原理",
+    "detection_range_text": "演示参数：0–100 任意单位",
+    "accuracy_text": "未提供真实精度",
+    "core_facts": [
+      "合成应用场景：石油化工",
+      "演示形态：便携",
+      "参数仅用于软件演示，不代表真实设备性能"
+    ],
+    "search_text": "合成便携气相色谱仪 DemoLab-2 石油化工 便携 气相色谱仪",
+    "url": "https://example.invalid/products/SYN-005"
+  },
+  {
+    "id": "SYN-006",
+    "synthetic": true,
+    "product_name": "合成实验室气相色谱仪",
+    "brand_name": "DemoLab-3",
+    "model": "SYN-006",
+    "category_hint": "气相色谱仪",
+    "instrument_type_raw": "气相色谱仪",
+    "price_text": "28万元",
+    "domestic_or_imported": "进口",
+    "application_industries": [
+      "环保"
+    ],
+    "is_portable": false,
+    "is_online": false,
+    "is_benchtop": true,
+    "company_name": "虚构演示制造商",
+    "principle": "合成演示原理",
+    "detection_range_text": "演示参数：0–100 任意单位",
+    "accuracy_text": "未提供真实精度",
+    "core_facts": [
+      "合成应用场景：环保",
+      "演示形态：实验室",
+      "参数仅用于软件演示，不代表真实设备性能"
+    ],
+    "search_text": "合成实验室气相色谱仪 DemoLab-3 环保 实验室 气相色谱仪",
+    "url": "https://example.invalid/products/SYN-006"
+  },
+  {
+    "id": "SYN-007",
+    "synthetic": true,
+    "product_name": "合成实验室高效液相色谱仪",
+    "brand_name": "DemoLab-1",
+    "model": "SYN-007",
+    "category_hint": "高效液相色谱仪",
+    "instrument_type_raw": "高效液相色谱仪",
+    "price_text": "32万元",
+    "domestic_or_imported": "国产",
+    "application_industries": [
+      "制药"
+    ],
+    "is_portable": false,
+    "is_online": false,
+    "is_benchtop": true,
+    "company_name": "虚构演示制造商",
+    "principle": "合成演示原理",
+    "detection_range_text": "演示参数：0–100 任意单位",
+    "accuracy_text": "未提供真实精度",
+    "core_facts": [
+      "合成应用场景：制药",
+      "演示形态：实验室",
+      "参数仅用于软件演示，不代表真实设备性能"
+    ],
+    "search_text": "合成实验室高效液相色谱仪 DemoLab-1 制药 实验室 高效液相色谱仪",
+    "url": "https://example.invalid/products/SYN-007"
+  },
+  {
+    "id": "SYN-008",
+    "synthetic": true,
+    "product_name": "合成便携近红外光谱仪",
+    "brand_name": "DemoLab-2",
+    "model": "SYN-008",
+    "category_hint": "近红外光谱仪",
+    "instrument_type_raw": "近红外光谱仪",
+    "price_text": "15万元",
+    "domestic_or_imported": "进口",
+    "application_industries": [
+      "农业"
+    ],
+    "is_portable": true,
+    "is_online": false,
+    "is_benchtop": false,
+    "company_name": "虚构演示制造商",
+    "principle": "合成演示原理",
+    "detection_range_text": "演示参数：0–100 任意单位",
+    "accuracy_text": "未提供真实精度",
+    "core_facts": [
+      "合成应用场景：农业",
+      "演示形态：便携",
+      "参数仅用于软件演示，不代表真实设备性能"
+    ],
+    "search_text": "合成便携近红外光谱仪 DemoLab-2 农业 便携 近红外光谱仪",
+    "url": "https://example.invalid/products/SYN-008"
+  },
+  {
+    "id": "SYN-009",
+    "synthetic": true,
+    "product_name": "合成便携拉曼光谱仪",
+    "brand_name": "DemoLab-3",
+    "model": "SYN-009",
+    "category_hint": "拉曼光谱仪",
+    "instrument_type_raw": "拉曼光谱仪",
+    "price_text": "22万元",
+    "domestic_or_imported": "国产",
+    "application_industries": [
+      "制药"
+    ],
+    "is_portable": true,
+    "is_online": false,
+    "is_benchtop": false,
+    "company_name": "虚构演示制造商",
+    "principle": "合成演示原理",
+    "detection_range_text": "演示参数：0–100 任意单位",
+    "accuracy_text": "未提供真实精度",
+    "core_facts": [
+      "合成应用场景：制药",
+      "演示形态：便携",
+      "参数仅用于软件演示，不代表真实设备性能"
+    ],
+    "search_text": "合成便携拉曼光谱仪 DemoLab-3 制药 便携 拉曼光谱仪",
+    "url": "https://example.invalid/products/SYN-009"
+  },
+  {
+    "id": "SYN-010",
+    "synthetic": true,
+    "product_name": "合成在线气体报警器",
+    "brand_name": "DemoLab-1",
+    "model": "SYN-010",
+    "category_hint": "气体报警器",
+    "instrument_type_raw": "气体报警器",
+    "price_text": "4万元",
+    "domestic_or_imported": "进口",
+    "application_industries": [
+      "环境应急"
+    ],
+    "is_portable": false,
+    "is_online": true,
+    "is_benchtop": false,
+    "company_name": "虚构演示制造商",
+    "principle": "合成演示原理",
+    "detection_range_text": "演示参数：0–100 任意单位",
+    "accuracy_text": "未提供真实精度",
+    "core_facts": [
+      "合成应用场景：环境应急",
+      "演示形态：在线",
+      "参数仅用于软件演示，不代表真实设备性能"
+    ],
+    "search_text": "合成在线气体报警器 DemoLab-1 环境应急 在线 气体报警器",
+    "url": "https://example.invalid/products/SYN-010"
+  },
+  {
+    "id": "SYN-011",
+    "synthetic": true,
+    "product_name": "合成在线水分测定仪",
+    "brand_name": "DemoLab-2",
+    "model": "SYN-011",
+    "category_hint": "水分测定仪",
+    "instrument_type_raw": "水分测定仪",
+    "price_text": "16万元",
+    "domestic_or_imported": "国产",
+    "application_industries": [
+      "石油化工"
+    ],
+    "is_portable": false,
+    "is_online": true,
+    "is_benchtop": false,
+    "company_name": "虚构演示制造商",
+    "principle": "合成演示原理",
+    "detection_range_text": "演示参数：0–100 任意单位",
+    "accuracy_text": "未提供真实精度",
+    "core_facts": [
+      "合成应用场景：石油化工",
+      "演示形态：在线",
+      "参数仅用于软件演示，不代表真实设备性能"
+    ],
+    "search_text": "合成在线水分测定仪 DemoLab-2 石油化工 在线 水分测定仪",
+    "url": "https://example.invalid/products/SYN-011"
+  },
+  {
+    "id": "SYN-012",
+    "synthetic": true,
+    "product_name": "合成机载高光谱仪",
+    "brand_name": "DemoLab-3",
+    "model": "SYN-012",
+    "category_hint": "高光谱仪",
+    "instrument_type_raw": "高光谱仪",
+    "price_text": "45万元",
+    "domestic_or_imported": "进口",
+    "application_industries": [
+      "林业"
+    ],
+    "is_portable": false,
+    "is_online": false,
+    "is_benchtop": false,
+    "company_name": "虚构演示制造商",
+    "principle": "合成演示原理",
+    "detection_range_text": "演示参数：0–100 任意单位",
+    "accuracy_text": "未提供真实精度",
+    "core_facts": [
+      "合成应用场景：林业",
+      "演示形态：机载",
+      "参数仅用于软件演示，不代表真实设备性能"
+    ],
+    "search_text": "合成机载高光谱仪 DemoLab-3 林业 机载 高光谱仪",
+    "url": "https://example.invalid/products/SYN-012"
+  }
+]
